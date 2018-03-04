@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_translate"
+            android:icon="@drawable/language_16"
+            android:title="Translator" />
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/high_importance_32"
+            android:title="About" />
+        <item
+            android:id="@+id/nav_help"
+            android:icon="@drawable/help_32px"
+            android:title="Help" />
+    </group>
+
+
+</menu>

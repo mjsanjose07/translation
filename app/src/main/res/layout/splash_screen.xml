@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#FFFFFF"
+    android:layout_gravity="center"
+    android:id="@+id/lin_lay"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:weightSum="1">
+
+
+    <ImageView
+        android:id="@+id/splash"
+        android:layout_width="165dp"
+        android:layout_height="155dp"
+        android:background="@drawable/plcitcs"
+        tools:layout_conversion_absoluteHeight="197dp"
+        tools:layout_conversion_absoluteWidth="251dp"
+        tools:layout_conversion_absoluteX="54dp"
+        tools:layout_conversion_absoluteY="136dp"
+        tools:layout_editor_absoluteX="54dp"
+        tools:layout_editor_absoluteY="136dp" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="360dp"
+        android:layout_height="wrap_content"
+        android:fontFamily="serif"
+        android:text="       An Android-Based Northern Dialect Translator"
+        android:textColor="#000000"
+        android:textSize="13dp"
+        android:layout_marginTop="70dp"
+        android:layout_marginLeft="8dp"
+        tools:layout_conversion_absoluteHeight="16dp"
+        tools:layout_conversion_absoluteWidth="360dp"
+        tools:layout_conversion_absoluteX="0dp"
+        tools:layout_conversion_absoluteY="414dp"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="414dp" />
+
+
+</LinearLayout>

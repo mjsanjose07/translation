@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="english">
+    <item>good morning</item>
+    <item>good afternoon</item>
+    <item>good evening</item>
+    <item>one</item>
+    <item>two</item>
+    <item>three</item>
+    <item>four</item>
+    <item>five</item>
+    <item>six</item>
+    <item>seven</item>
+    <item>eight</item>
+    <item>nine</item>
+    <item>ten</item>
+    <item>eleven</item>
+    <item>twelve</item>
+    <item>thirteen</item>
+    <item>fourteen</item>
+    <item>fifteen</item>
+    <item>sixteen</item>
+    <item>seventeen</item>
+    <item>eighteen</item>
+    <item>nineteen</item>
+    <item>twenty</item>
+    <item>Monday</item>
+    <item>Tuesday</item>
+    <item>Wednesday</item>
+    <item>Thursday</item>
+    <item>Friday</item>
+    <item>Saturday</item>
+    <item>Sunday</item>
+    <item>January</item>
+    <item>February</item>
+    <item>March</item>
+    <item>April</item>
+    <item>May</item>
+    <item>June</item>
+    <item>July</item>
+    <item>August</item>
+    <item>September</item>
+    <item>October</item>
+    <item>November</item>
+    <item>December</item>
+    <item>Tomorrow</item>
+    <item>Now</item>
+    <item>Later</item>
+    <item>Before</item>
+    <item>Yesterday</item>
+    <item>Father</item>
+    <item>Mother</item>
+    <item>Sister</item>
+    <item>Brother</item>
+    <item>Cousin</item>
+    <item>Niece</item>
+    <item>Uncle</item>
+    <item>Auntie</item>
+    <item>Black</item>
+    <item>Green</item>
+    <item>Red</item>
+    <item>Yellow</item>
+    <item>White</item>
+    <item>What</item>
+    <item>Who</item>
+    <item>Where</item>
+    <item>Why</item>
+    <item>When</item>
+    <item>How</item>
+    <item>What is your name</item>
+    <item>I love you</item>
+    <item>Thank you</item>
+    <item>How are you?</item>
+    <item>Where did you go?</item>
+    <item>Where are you going?</item>
+    <item>What is this?</item>
+    <item>What is that?</item>
+    <item>What is your name?</item>
+    <item>How much is this?</item>
+    <item>What time is it?</item>
+    <item>May i ask you something?</item>
+    <item>How are you today?</item>
+    <item>I miss you</item>
+    <item>Excuse me</item>
+    <item>Where is the toilet?</item>
+    <item>How old are you?</item>
+    <item>Where\'s the town?</item>
+    <item>Your dress is pretty</item>
+    <item>Wait for me</item>
+    <item>Did you eat already?</item>
+    <item>What\'s your meal?</item>
+    <item>Im going there</item>
+    <item>I don\'t care</item>
+    <item>You are beautiful</item>
+    <item>You are handsome</item>
+    <item>How much is the fare?</item>
+    <item>Here\'s my fare please</item>
+    <item>Yes</item>
+    <item>No</item>
+    <item>Let\'s eat</item>
+    <item>Where do you want to eat?</item>
+    <item>Maybe</item>
+    <item>I don\'t like</item>
+    <item>I like you</item>
+    <item>I don\'t speak english</item>
+    <item>Do you speak english</item>
+    <item>I\'m leaving</item>
+    <item>I\'m going back</item>
+    <item>I didn\'t eat yet</item>
+    <item>Don\'t say it anymore</item>
+    <item>I\'m just kidding</item>
+    <item>I\'m happy</item>
+    <item>Can I borrow money?</item>
+    <item>I don\'t know you</item>
+    <item>I\'m hungry</item>
+    <item>Where do you live?</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </string-array>
+
+
+</resources>
